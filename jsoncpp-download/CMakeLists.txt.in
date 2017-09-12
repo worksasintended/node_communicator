@@ -10,5 +10,4 @@ ExternalProject_Add( project_jsoncpp
                 INSTALL_COMMAND ""
                 #CONFIGURE_COMMAND ""
                 TEST_COMMAND ""
-                )
-~                                
+                )                               
